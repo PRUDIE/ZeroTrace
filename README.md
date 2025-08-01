@@ -1,7 +1,7 @@
 # ZeroTrace
 # 👋🏾 Hey, I’m ZeroTrace
 
-🎯 **Security Engineer | Focus in Offensive Security - Bug Bounty and Penetration Testing | **  
+🎯 Security Engineer | Focus in Offensive Security - Bug Bounty and Penetration Testing | 
 📍 United States |
 |Unlearning | Re-learning 
 
