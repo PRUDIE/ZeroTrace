@@ -25,7 +25,7 @@ Currently:
 ---
 
  Featured Repos:
-- [
+
 
 ---
 
