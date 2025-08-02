@@ -1,5 +1,5 @@
 # ZeroTrace
-# 👋🏾 Hey, I’m ZeroTrace
+# 👋🏾 Hey, I’m Prudence b
 
 🎯 Security Engineer | Focus in Offensive Security - Bug Bounty and Penetration Testing | 
 📍 United States |
@@ -25,7 +25,7 @@ Currently:
 ---
 
  Featured Repos:
-- [`jwt-inspector`](#) – Tool for analyzing and validating JWTs
+- [
 
 ---
 
