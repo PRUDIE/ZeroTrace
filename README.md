@@ -1,7 +1,7 @@
-# ZeroTrace
-# 👋🏾 Hey, I’m Prudence b
 
-🎯 Security Engineer | Focus in Offensive Security - Bug Bounty and Penetration Testing | 
+# 👋🏾 Hello, I'm Prudie and welcome to my page.
+
+Security Engineer | Focus in Offensive Security - Bug Bounty and Penetration Testing | 
 📍 United States |
 |Unlearning | Re-learning 
 
