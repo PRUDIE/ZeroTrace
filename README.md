@@ -32,4 +32,5 @@ Currently:
 Find Me Online:
 - [Blog](https://medium.com/@prudiee)
 - [Youtube](https://www.youtube.com/@prudieeee)
+-  [Instagram](https://www.instagram.com/cyberwithp)
 
