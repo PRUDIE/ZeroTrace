@@ -24,12 +24,12 @@ Currently:
 ---
 
  Featured Repos:
+ In Progess 
 
 
 ---
 
 Find Me Online:
 - [Blog](https://medium.com/@prudiee)
-- [Twitter](https://twitter.com/Zero0_Trace)
 - [Youtube](https://www.youtube.com/@prudieeee)
 
