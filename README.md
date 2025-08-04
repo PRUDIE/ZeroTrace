@@ -15,7 +15,6 @@ Security Engineer | Focus in Offensive Security - Bug Bounty and Penetration Tes
 ---
 
 Currently:
-- Studying for OSWE
 - Building a personal security toolkit
 - Blogging my journey into cybersecurity
 
